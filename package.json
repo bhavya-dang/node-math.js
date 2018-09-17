@@ -2,7 +2,7 @@
   "name": "node-math.js",
   "version": "1.0.1",
   "description": "A simple math library for NodeJS and JavaScript.",
-  "main": "index.js",
+  "main": "app.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Sythe2954/node-math.js.git"
