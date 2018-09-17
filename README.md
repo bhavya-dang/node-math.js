@@ -1,7 +1,7 @@
 ## node-math.js
 
 > A simple math libary for NodeJS and JavaScript.
-<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="NPM version" /></a>
+<a href="https://www.npmjs.com/package/node-math.js"><img src="https://img.shields.io/npm/v/node-math.js.svg?maxAge=3600" alt="NPM version" /></a>
 
 ## Installation
 
@@ -11,7 +11,9 @@ $ npm install node-math.js
 
 ## Dependencies
 
+```bash
 $ npm install
+```
 
 ## Examples
 

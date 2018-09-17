@@ -1,7 +1,7 @@
 {
   "name": "node-math.js",
-  "version": "1.0.0",
-  "description": "A simple math library for NodeJS.",
+  "version": "1.0.1",
+  "description": "A simple math library for NodeJS and JavaScript.",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "number"
   ],
   "author": "Bhavya Dang",
-  "license": "ISC",
+  "license": "Apache License 2.0",
   "bugs": {
     "url": "https://github.com/Sythe2954/node-math.js/issues"
   },
