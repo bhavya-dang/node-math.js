@@ -5,6 +5,11 @@ module.exports.recArea = (l, b) => l * b;
 module.exports.sqArea = side => side * side;
 module.exports.sqPer = side => side * 4;
 module.exports.ceil = number => Math.ceil(number); 
+module.exports.add = (number, number2) => number + number2;
+module.exports.sub = (number, number2) => number - number2;
+module.exports.multiply = (number, number2) => number * number2;
+module.exports.div = (number, number2) => number / number2;
+
 module.exports.eval = function clean(text) {
     if (typeof(text) === "string")
       return text.replace(/`/g, "`" + String.fromCharCode(8203)).replace(/@/g, "@" + String.fromCharCode(8203));
