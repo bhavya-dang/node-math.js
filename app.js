@@ -4,6 +4,7 @@ module.exports.recPer = (l, b) => 2 * (l + b);
 module.exports.recArea = (l, b) => l * b;
 module.exports.sqArea = side => side * side;
 module.exports.sqPer = side => side * 4;
+module.exports.ceil = number => Math.ceil(number); 
 module.exports.eval = function clean(text) {
     if (typeof(text) === "string")
       return text.replace(/`/g, "`" + String.fromCharCode(8203)).replace(/@/g, "@" + String.fromCharCode(8203));
