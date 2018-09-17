@@ -1,7 +1,6 @@
 ## node-math.js
 <a href="https://www.npmjs.com/package/node-math.js"><img src="https://img.shields.io/npm/v/node-math.js.svg?maxAge=3600" alt="NPM version" /></a>
 ![Build Status](https://img.shields.io/travis/Sythe2954/node-math.js.svg)
-[![Build Status](https://travis-ci.org/Sythe2954/node-math.js.svg?branch=master)](https://travis-ci.org/Sythe2954/node-math.js)
 ![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)
 
 > A simple math libary for NodeJS and JavaScript.<br>
