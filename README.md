@@ -1,6 +1,6 @@
 ## node-math.js
 
-> A simple math libary for NodeJS and JavaScript.
+> A simple math libary for NodeJS and JavaScript.<br>
 <a href="https://www.npmjs.com/package/node-math.js"><img src="https://img.shields.io/npm/v/node-math.js.svg?maxAge=3600" alt="NPM version" /></a>
 
 ## Installation
@@ -44,5 +44,5 @@ math.div(number1, number2);
 
 ## License
 
-&copy; 2018, Bhavya Dang
-Released under the Apache License
+&copy; 2018, Bhavya Dang<br>
+Released under the Apache License 2.0.
