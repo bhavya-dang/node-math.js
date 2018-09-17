@@ -1,0 +1,23 @@
+{
+  "name": "node-math.js",
+  "version": "1.0.0",
+  "description": "A simple math library for NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sythe2954/node-math.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sythe2954/node-math.js/issues"
+  },
+  "homepage": "https://github.com/Sythe2954node-math.js#readme",
+  "dependencies": {
+    "util": "^0.11.0"
+  }
+}
