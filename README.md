@@ -1,6 +1,7 @@
 ## node-math.js
 
 > A simple math libary for NodeJS and JavaScript.
+<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="NPM version" /></a>
 
 ## Installation
 
@@ -29,3 +30,8 @@ math.sqArea(side);
 math.eval(string);
 
 ```
+
+## License
+
+&copy; 2018, Bhavya Dang
+Released under the Apache License
