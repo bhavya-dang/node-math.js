@@ -39,10 +39,10 @@ math.ceil(number);
 math.sqPer(side);
 math.sqArea(side);
 math.eval(string);
-math.add(number1, number2);
-math.sub(number1, number2);
-math.multiply(number1, number2);
-math.div(number1, number2);
+math.add(a, b);
+math.sub(a, b);
+math.prod(a, b);
+math.div(a, b);
 ```
 
 ## License
