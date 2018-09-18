@@ -1,4 +1,6 @@
 ## node-math.js
+<center><a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/dt/discord.js.svg?maxAge=3600" alt="NPM downloads" /></a></center>
 <a href="https://www.npmjs.com/package/node-math.js"><img src="https://img.shields.io/npm/v/node-math.js.svg?maxAge=3600" alt="NPM version" /></a>
 ![Build Status](https://img.shields.io/travis/Sythe2954/node-math.js.svg)
 ![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)
