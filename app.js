@@ -9,6 +9,7 @@ module.exports.add = (a, b) => a + b;
 module.exports.sub = (a, b) => a - b;
 module.exports.prod = (a, b) => a * b;
 module.exports.div = (a, b) => a / b;
+module.exports.rand = () => Math.random();
 
 module.exports.eval = function clean(text) {
     if (typeof(text) === "string")
