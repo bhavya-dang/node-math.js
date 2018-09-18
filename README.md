@@ -1,19 +1,23 @@
 ## node-math.js
+
 <div align="center">
-<p><a href="https://www.npmjs.com/package/node-math.js"><img src="https://img.shields.io/npm/v/node-math.js.svg?maxAge=3600" alt="NPM version" /></a>
-</p>
+<br />
+
 <p>
+<a href="https://www.npmjs.com/package/node-math.js"><img src="https://img.shields.io/npm/v/node-math.js.svg?maxAge=3600" alt="NPM version" /></a>
+
+
+
 <a href="https://www.npmjs.com/package/node-math.js"><img src="https://img.shields.io/npm/dt/node-math.js.svg?maxAge=3600" alt="NPM downloads" /></a>
+
+<a href="https://www.npmjs.com/package/node-math.js"><img src="https://img.shields.io/travis/Sythe2954/node-math.js.svg" alt="Build Status" /></a>
+
+<a href="https://www.npmjs.com/package/node-math.js"><img src="(https://img.shields.io/hexpm/l/plug.svg" alt="license" /></a>
 </p>
 <p>
 <a href="https://nodei.co/npm/node-math.js/"><img src="https://nodei.co/npm/node-math.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
 </p>
-<p>
-<a href="https://www.npmjs.com/package/node-math.js"><img src="https://img.shields.io/travis/Sythe2954/node-math.js.svg" alt="Build Status" /></a>
-</p>
-<p>
-<a href="https://www.npmjs.com/package/node-math.js"><img src="(https://img.shields.io/hexpm/l/plug.svg" alt="license" /></a>
-</p>
+<br />
 </div>
 
 
