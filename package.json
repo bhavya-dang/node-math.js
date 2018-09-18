@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Sythe2954node-math.js#readme",
   "dependencies": {
+    "npm": "^6.4.1",
     "util": "^0.11.0"
   }
 }
