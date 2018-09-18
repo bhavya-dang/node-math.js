@@ -10,10 +10,11 @@
   <p>
     <a href="https://nodei.co/npm/node-math.js/"><img src="https://nodei.co/npm/node-math.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
   </p>
+  <p>
+  A simple math library for NodeJS and JavaScript.
+  </p>
 </div>
 
-
-> A simple math libary for NodeJS and JavaScript.<br>
 
 
 ## Installation
