@@ -16,8 +16,8 @@ test("Multiply 2 by 2 to be 4", () => {
     expect(math.prod(2, 2)).toBe(4);
 });
 
-test("Rounds down 2.99 to 2", () => {
-    expect(math.ceil(2)).toBe(2);
+test("Rounds down 2.02 to 3", () => {
+    expect(math.ceil(2.02)).toBe(3);
 });
 
 test("Gives area of square with length 2", () => {
@@ -42,4 +42,12 @@ test("Gives area of circle with radius 1", () => {
 
 test("Gives perimeter of circle with radius 1", () => {
     expect(math.circlePer(1)).toBe(2 * Math.PI);
+});
+
+test("Rounds down 2.99 to 2", () => {
+    expect(math.floor(2.99)).toBe(2);
+});
+
+test("Rounds 2.99 to 3", () => {
+    expect(math.round(2.99)).toBe(3);
 });
