@@ -10,9 +10,9 @@
   <p>
     <a href="https://nodei.co/npm/node-math.js/"><img src="https://nodei.co/npm/node-math.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
   </p>
-  <p>
-  A simple math library for NodeJS and JavaScript.
-  </p>
+  
+  ### A simple math library for NodeJS and JavaScript.
+  
 </div>
 
 
@@ -54,9 +54,12 @@ math.add(a, b);
 math.sub(a, b);
 math.prod(a, b);
 math.div(a, b);
+math.floor(number);
+math.random();
+math.round(n);
 ```
 
 ## License
 
-&copy; 2018, Bhavya Dang<br>
+&copy; Bhavya Dang, 2018<br>
 Released under the Apache License 2.0.
