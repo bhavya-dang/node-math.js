@@ -13,11 +13,10 @@ module.exports.div = (a, b) => a / b;
 module.exports.rand = () => Math.random();
 module.exports.round = (n) => Math.round(n);
 
-module.exports.eval = function clean(text) {
+module.exports.eval = clean(text) => {
     if (typeof (text) === "string")
         return text.replace(/`/g, "`" + String.fromCharCode(8203)).replace(/@/g, "@" + String.fromCharCode(8203));
-    else
-        return text;
+    else return text;
     const code = text.join(" ");
     let evaled = inspect(eval(code), {
         depth: 0
